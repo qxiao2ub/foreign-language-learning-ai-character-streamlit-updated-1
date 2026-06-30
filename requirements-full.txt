@@ -1,0 +1,8 @@
+streamlit>=1.37
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+transformers>=4.41
+torch>=2.3
+sentencepiece>=0.2
+accelerate>=0.31

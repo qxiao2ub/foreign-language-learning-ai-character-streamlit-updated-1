@@ -1,0 +1,12 @@
+streamlit>=1.37
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+
+# Optional Hugging Face LLM mode dependencies.
+# The app runs without these by using the built-in fallback engine.
+# Uncomment these lines if you want to enable the sidebar LLM option:
+# transformers>=4.41
+# torch>=2.3
+# sentencepiece>=0.2
+# accelerate>=0.31
